@@ -1,0 +1,20 @@
+git command
+"touch <filename>" - create file
+"git init" - initialize git repos
+"git config --global user.name 'Emur Kun'" - configure name
+"git config --global user.name 'emurkundevstuff@gmail.com'" - configure email
+"git add <file>" - add file
+"git status" - checking stage
+"git rm --cached <file>" - to unstage
+"git add ." - add all file
+"git commit"
+-> press 'I' to insert text
+-> press 'ESC' to escape
+-> ':wq' - to finalize commit
+"git commit -m '<comments or commits>'" - skip the one above
+"git branch <branchname> - add branch
+"git checkout <branchname> - goto branch
+"git merge <branchname>" - merge branches or branch to master
+"git remote add origin <github repos link>" - add repos 
+"git push -u origin master" - push it to the repos
+"git clone <github repos link>" - clone or download repos
